@@ -22,8 +22,7 @@ Level 6 is is 10 total addition, subtraction, multiplication and division fracti
 
 
 ###Installation
-Choose the Download ZIP or Clone in Desktop option. 
-Then open the Application file from Math-Tutor-Game-master\MathTutorProgram\bin\Debug or Math-Tutor-Game-master\MathTutorProgram\bin\Release
+Choose the Download ZIP or Clone in Desktop option. Then open the Application file from Math-Tutor-Game-master\MathTutorProgram\bin\Debug or Math-Tutor-Game-master\MathTutorProgram\bin\Release
 
 
 
